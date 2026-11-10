@@ -1,0 +1,9 @@
+Plan: Okay, the user is asking which city is warmer
+between Delhi and London. I need to figure out the
+weather for both cities to compare.
+<tool_call>
+{"name": "get_weather", "arguments": {"city": "Delhi"}}
+</tool_call>
+<tool_call>
+{"name": "get_weather", "arguments": {"city": "London"}}
+</tool_call>

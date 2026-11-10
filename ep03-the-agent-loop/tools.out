@@ -1,0 +1,2 @@
+get_weather - Get today's weather for a city.
+{"city": {"type": "string", "description": "The city name."}}
