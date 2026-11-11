@@ -9,7 +9,7 @@ You don't need an API key, an account or a graphics card.
 | Episode | Folder | Video |
 |---|---|---|
 | 2: How Large Language Models Work | [`ep02-how-llms-work`](ep02-how-llms-work) | https://youtu.be/vYnPRC42Wxk |
-| 3: How AI Agents Work: The Agent Loop | [`ep03-the-agent-loop`](ep03-the-agent-loop) | (link added when the video is live) |
+| 3: How AI Agents Work: The Agent Loop | [`ep03-the-agent-loop`](ep03-the-agent-loop) | [Watch](https://youtu.be/PeXY-H4wxrA) |
 
 ## Run it
 
