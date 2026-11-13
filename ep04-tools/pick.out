@@ -1,0 +1,9 @@
+Is it raining in London today?
+  call:   get_weather({'city': 'London'})
+  result: 11°C, rain
+What time is it in Delhi right now?
+  call:   get_time({'city': 'Delhi'})
+  result: 15:00
+What do I have on Friday?
+  call:   check_calendar({'day': 'Friday'})
+  result: 9:00 team meeting, 13:00 lunch with Asha

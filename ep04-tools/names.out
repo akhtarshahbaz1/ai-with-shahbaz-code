@@ -1,0 +1,2 @@
+Vague: unit='Fahrenheit' -> error: unknown unit
+Clear: unit='F' -> 90°F

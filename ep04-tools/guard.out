@@ -1,0 +1,4 @@
+get_weather -> 11°C, rain
+delete_everything -> refused: not an allowed tool
+get_time -> refused: wrong arguments
+send_email -> paused: ask a human first
