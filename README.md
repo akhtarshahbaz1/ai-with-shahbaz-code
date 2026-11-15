@@ -11,6 +11,7 @@ You don't need an API key, an account or a graphics card.
 | 2: How Large Language Models Work | [`ep02-how-llms-work`](ep02-how-llms-work) | https://youtu.be/vYnPRC42Wxk |
 | 3: How AI Agents Work: The Agent Loop | [`ep03-the-agent-loop`](ep03-the-agent-loop) | [Watch](https://youtu.be/PeXY-H4wxrA) |
 | 4: How AI Agents Use Tools: Function Calling | [`ep04-tools`](ep04-tools) | [Watch](https://youtu.be/CdBJt06mKTw) |
+| 5: Memory: How AI Agents Remember | [`ep05-memory`](ep05-memory) | (link added when the video is live) |
 
 ## Run it
 

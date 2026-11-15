@@ -1,0 +1,3 @@
+Tool call: remember {'fact': 'Asha is a vegetarian.'}
+Result: saved
+memory.json: ["Asha is a vegetarian."]
